@@ -1,0 +1,10 @@
+Direction :
+
+Flèches Directionnelles
+
+Bombes :
+
+Poser une bombe vers le haut : Z
+Poser une bombe vers le bas : S
+Poser une bombe vers la gauche : Q
+Poser une bombe vers la droite : D
